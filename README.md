@@ -11,4 +11,4 @@ The json file contains a list of dictionaries describing the images in the datas
 
 Feel free to create your own captions, or just combine title, tag, description separated by spaces.
 
-Paper link: Coming Soon
+Paper link: http://arxiv.org/abs/2205.01397
